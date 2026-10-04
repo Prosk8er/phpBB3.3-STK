@@ -17,64 +17,64 @@ if (!defined('IN_PHPBB'))
 }
 
 /**
-* phpBB 3.3.16 data file
+* phpBB 3.3.19 data file
 */
-class datafile_3_3_16
+class datafile_3_3_19
 {
 	/**
 	* @var Array The bots
 	*/
 	var $bots = array(
 
-		// No bots changes 3.3.15 -> 3.3.16
+		// No bots changes 3.3.18 -> 3.3.19
 	);
 
 	/**
-	* @var Array 3.3.16 config data
+	* @var Array 3.3.19 config data
 	*/
 	var $config = array(
 	);
 
 	/**
-	* @var Array Config entries that were removed by the 3.3.16 update
+	* @var Array Config entries that were removed by the 3.3.19 update
 	*/
 	var $removed_config = array(
-		// No config entries removed 3.3.15 -> 3.3.16
+		// No config entries removed 3.3.18 -> 3.3.19
 	);
 
 	/**
 	* @var Array All default permission settings
 	*/
 	var $acl_options = array(
-		// No permission changes 3.3.15 -> 3.3.16
+		// No permission changes 3.3.18 -> 3.3.19
 	);
 
 	/**
 	* @var Array All default roles
 	*/
 	var $acl_roles = array(
-		// No role changes 3.3.15 -> 3.3.16
+		// No role changes 3.3.18 -> 3.3.19
 	);
 
 	/**
 	* @var Array All default role data
 	*/
 	var $acl_role_data = array(
-		// No role data changes 3.3.15 -> 3.3.16
+		// No role data changes 3.3.18 -> 3.3.19
 	);
 
 	/**
 	* @var Array All default extension groups
 	*/
 	var $extension_groups = array(
-		// No extension group changes 3.3.15 -> 3.3.16
+		// No extension group changes 3.3.18 -> 3.3.19
 	);
 
 	/**
 	* @var Array All default extensions
 	*/
 	var $extensions = array(
-		// No extension changes 3.3.15 -> 3.3.16
+		// No extension changes 3.3.18 -> 3.3.19
 	);
 
 	/**
@@ -82,32 +82,32 @@ class datafile_3_3_16
 	* needing to hard-code module_id values
 	*/
 	var $module_categories = array(
-		// No Module categories changes 3.3.15 -> 3.3.16
+		// No Module categories changes 3.3.18 -> 3.3.19
 	);
 
 	var $module_extras = array(
-		// No Module extra changes 3.3.15 -> 3.3.16
+		// No Module extra changes 3.3.18 -> 3.3.19
 	);
 
 	var $module_categories_basenames = array(
-		// No Categories basenames changes 3.3.15 -> 3.3.16
+		// No Categories basenames changes 3.3.18 -> 3.3.19
 	);
 
 	/**
 	* @var Array All default groups
 	*/
 	var $groups = array(
-		// No Group changes 3.3.15 -> 3.3.16
+		// No Group changes 3.3.18 -> 3.3.19
 	);
 	/**
 	* @var Array All default report reasons
 	*/
 	var $report_reasons = array(
-		// No reason changes 3.3.15 -> 3.3.16
+		// No reason changes 3.3.18 -> 3.3.19
 	);
 
 	var $acp_modules = array(
-		// No ACP modules changes 3.3.15 -> 3.3.16
+		// No ACP modules changes 3.3.18 -> 3.3.19
 	);
 
 	/**
@@ -145,6 +145,6 @@ class datafile_3_3_16
 
 	function get_schema_struct(&$schema_data)
 	{
-		// No schema changes 3.3.15 -> 3.3.16
+		// No schema changes 3.3.18 -> 3.3.19
 	}
 }
