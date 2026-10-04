@@ -25,7 +25,6 @@ class datafile_3_3_18
 	* @var Array The bots
 	*/
 	var $bots = array(
-
 		// No bots changes 3.3.17 -> 3.3.18
 	);
 
